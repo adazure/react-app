@@ -1,0 +1,21 @@
+#sliders {
+    overflow: hidden;
+}
+
+#sliders>div.slider-items {
+    width: 100%;
+    display: none;
+}
+
+#sliders>div.slider-items:first-child {
+    display: block;
+}
+
+#sliders>div.slider-items a {
+    display: block;
+}
+
+#sliders>div.slider-items a img {
+    width: 100%;
+    display: block;
+}

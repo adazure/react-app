@@ -1,0 +1,22 @@
+.menu-items {
+    overflow: hidden;
+    font-family: arial;
+    border-bottom: 1px solid #eee;
+    box-shadow: 0 10px 10px -12px #ccc;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu-items li {
+    float: left;
+    border-right: 1px solid #eee;
+}
+
+.menu-items li a {
+    display: block;
+    font-size: 14px;
+    color: #444;
+    padding: 15px 10px;
+    text-decoration: none;
+}

@@ -1,0 +1,23 @@
+#news {
+    width: 30%;
+    margin: 10px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    font-family: arial;
+}
+
+#news .news-item {
+    border-bottom: 1px solid #eee;
+    padding: 10px 0;
+}
+
+#news .news-item h1 {
+    font-size: 15px;
+    font-weight: bold;
+    color: #888;
+    margin-bottom: 3px;
+}
+
+#news .news-item p {
+    font-size: 12px;
+}
